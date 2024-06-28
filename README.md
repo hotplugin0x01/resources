@@ -1,5 +1,5 @@
 # Resources
-Resources that I find during solving problems on Job
+Resources that I find helpful while solving problems at work.
 ## Phishing Campaigns Related
 - Modding GoPhish to remove IOCs: https://swisskyrepo.github.io/Drink-Love-Share-Rump/
 - Modding GoPhish: https://edermi.github.io/post/2021/modding_gophish/
