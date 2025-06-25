@@ -10,3 +10,6 @@ Resources that I find helpful while solving problems at work.
   - Convincing Targets to Click Your Links: https://posts.specterops.io/i-will-make-you-phishers-of-men-608268c4c669
 - BaseStriker for MS365 Phishing: https://www.cyberdefensemagazine.com/basestriker-attack-technique-allow-to-bypass-microsoft-office-365-anti-phishing-filter/
 - Setting custom phishing infra: https://quantumcore.github.io/2025/04/10/custom-phishing-infrastructure.html
+
+## Mobile Pentest Related
+- Bypass Flutter SSL pinning with frida: https://github.com/hackcatml/frida-flutterproxy , https://github.com/hotplugin0x01/scripts/tree/main/frida
