@@ -13,3 +13,6 @@ Resources that I find helpful while solving problems at work.
 
 ## Mobile Pentest Related
 - Bypass Flutter SSL pinning with frida: https://github.com/hackcatml/frida-flutterproxy , https://github.com/hotplugin0x01/scripts/tree/main/frida
+
+## Web Related
+- XSS Payload to Create WordPress Admin User: https://shift8web.ca/craft-xss-payload-create-admin-user-in-wordpress-user/
